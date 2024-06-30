@@ -54,8 +54,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caua07&theme=gruvbox&hide_border=true" alt="caua07's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=caua07&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="caua07's Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=caua07&theme=gruvbox&hide_border=true" alt="caua07's Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=caua07&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="caua07's Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua07&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="caua07's Top Languages" />
 
