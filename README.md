@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a freelancer
+ 🔭 I’m currently working as a freelancer
  
  🌱 I’m currently learning angular, js and ts
 
