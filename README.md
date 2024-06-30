@@ -55,11 +55,10 @@
 <br>
 <div align=center>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caua07&theme=gruvbox&hide_border=true" alt="caua07's Streak" />
-
-  <img src="https://streak-stats.demolab.com?user=caua07&theme=dark&card_width=480" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats-caua07.vercel.app/api?username=caua07&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caua07&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="caua07's Stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-caua07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua07&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="caua07's Top Languages" />
+
 </div>
 
 <br/><br/>
